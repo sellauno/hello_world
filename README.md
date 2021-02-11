@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # MI-2A / Sella Novanda
-![screenshot](image/ss1.png)
+![alt text](image/ss1.png)
